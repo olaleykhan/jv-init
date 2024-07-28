@@ -1,0 +1,38 @@
+# Ignore all class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse #
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA #
+.idea/
+*.iml
+*.iws
+out/
+
+# NetBeans #
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code #
+.vscode/
+
+# macOS #
+.DS_Store
+
+# Logs #
+*.log
+
+# Environment variables
+.env
